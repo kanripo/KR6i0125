@@ -1,0 +1,4 @@
+#-*- mode: mandoku-view; -*-
+#+TITLE: 佛說阿難分別經
+#+DATE: 2015-08-30 20:10:29.026982
+#+PROPERTY: JUAN 0
